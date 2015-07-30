@@ -1,0 +1,10 @@
+C:\forecast\Modules\EXIMMeasuresLoader\EXIMWinService\bin\Debug\ENEXWinService.exe.config
+C:\forecast\Modules\EXIMMeasuresLoader\EXIMWinService\obj\x86\Debug\ENEXWinService.exe
+C:\forecast\Modules\EXIMMeasuresLoader\EXIMWinService\obj\x86\Debug\ENEXWinService.pdb
+C:\forecast\Modules\EXIMMeasuresLoader\EXIMWinService\obj\x86\Debug\EXIMWinService.csprojResolveAssemblyReference.cache
+C:\forecast\Modules\EXIMMeasuresLoader\EXIMWinService\obj\x86\Debug\ENEXWinService.EXIMService.resources
+C:\forecast\Modules\EXIMMeasuresLoader\EXIMWinService\obj\x86\Debug\EXIMWinService.ProjectInstaller.resources
+C:\forecast\Modules\EXIMMeasuresLoader\EXIMWinService\obj\x86\Debug\EXIMWinService.csproj.GenerateResource.Cache
+C:\forecast\Modules\EXIMMeasuresLoader\EXIMWinService\bin\Debug\EXIMWinService.exe.config
+C:\forecast\Modules\EXIMMeasuresLoader\EXIMWinService\obj\x86\Debug\EXIMWinService.ENEXService.resources
+C:\forecast\Modules\EXIMMeasuresLoader\EXIMWinService\obj\x86\Debug\EXIMWinService.EXIMService.resources
